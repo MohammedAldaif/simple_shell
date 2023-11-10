@@ -4,7 +4,7 @@
  * @token: input
  * Return: void
  */
-void create_child_process(char *token[])
+void create_child_process(char *tokens[])
 {
 	pid_t child;
 	int status;
