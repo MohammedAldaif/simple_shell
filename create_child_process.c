@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * create_child_process - function
- * @token: input
+ * @tokens: input
  * Return: void
  */
 void create_child_process(char *tokens[])
